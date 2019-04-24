@@ -28,6 +28,11 @@ Buatlah perancangan aplikasi Web Server yang digunakan untuk melakukan serve ter
 
 ![FSM No 1](https://user-images.githubusercontent.com/33456025/56653403-d2037100-66b7-11e9-9eea-3d7c8f8fda7e.jpg)
 
+Kode program.go siap untuk di running, setelah berhasil di didengarkan koneksi akan membuat permintaan ke alamat IP dan port yang dituju untuk memetakan dokumen HTML, lalu server mengirimkan respon berupa file HTML yang ditampilkan dalam browser.
+
+Ketika terdapat kesalahan pada IP atau port yang dituju, maka program akan memberikan pesan error dan koneksi tidak dapat diakses atau ditutup.
+
+
 **Soal 2**
 
 Implementasikan aplikasi web server dari design yang sudah anda buat, aplikasi harus mempunyai config file untuk melakukan konfigurasi aplikasi!
