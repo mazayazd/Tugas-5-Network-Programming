@@ -18,3 +18,5 @@ Buatlah perancangan aplikasi Web Server yang digunakan untuk melakukan serve ter
 Implementasikan aplikasi web server dari design yang sudah anda buat, aplikasi harus mempunyai config file untuk melakukan konfigurasi aplikasi!
 
 **Jawaban:**
+
+![simple server new](https://user-images.githubusercontent.com/33456025/56653602-29a1dc80-66b8-11e9-87d4-135c57158397.PNG)
