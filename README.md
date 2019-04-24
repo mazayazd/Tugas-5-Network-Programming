@@ -6,7 +6,7 @@
         Mazaya Z D                      1301154508
         Renaning Karutami Susilo        1301154466
         
-###**HTML**
+### **HTML**
 
 HTML (HyperText Markup Language) adalah bahasa pemrograman standar yang digunakan untuk membuat sebuah halaman web, yang kemudian dapat diakses untuk menampilkan berbagai informasi di dalam sebuah penjelajah web Internet (Browser).
 Fungsi html yang pertama adalah untuk membuat suatu halaman website yang dapat dibaca dan dipahami oleh pengguna dengan lebih mudah.Lalu, menandai teks pada suatu laman.
