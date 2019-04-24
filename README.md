@@ -38,6 +38,7 @@ Ketika terdapat kesalahan pada IP atau port yang dituju, maka program akan membe
 Implementasikan aplikasi web server dari design yang sudah anda buat, aplikasi harus mempunyai config file untuk melakukan konfigurasi aplikasi!
 
 **Jawaban:**
+
 ![run server](https://user-images.githubusercontent.com/33456025/56653887-edbb4700-66b8-11e9-9154-92a5f31878ca.PNG)
 
 Running Main.go
