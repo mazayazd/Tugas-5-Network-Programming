@@ -20,3 +20,9 @@ Implementasikan aplikasi web server dari design yang sudah anda buat, aplikasi h
 **Jawaban:**
 
 ![simple server new](https://user-images.githubusercontent.com/33456025/56653602-29a1dc80-66b8-11e9-87d4-135c57158397.PNG)
+
+![server new 2](https://user-images.githubusercontent.com/33456025/56653673-59e97b00-66b8-11e9-8ad4-7e949dae268a.PNG)
+
+![server new 3](https://user-images.githubusercontent.com/33456025/56653730-843b3880-66b8-11e9-9a3e-8cffea7a49e7.PNG)
+
+![server error salah IP](https://user-images.githubusercontent.com/33456025/56653769-99b06280-66b8-11e9-87de-a0b732ad8b4b.PNG)
